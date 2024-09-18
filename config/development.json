@@ -1,0 +1,6 @@
+{   
+    "serverDomain" : "http://localhost:8080",
+    "testPublicDomain" : "https://3b43-117-222-41-23.ngrok-free.app",
+    "graphAPIURL" :"https://graph.facebook.com",
+    "graphAPIVersion" : "/v19.0"
+}
